@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "manifest_version": 3,
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/erkserkserks/h264ify",
+  "homepage_url": "https://github.com/ViPetroFF/h264vk",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
